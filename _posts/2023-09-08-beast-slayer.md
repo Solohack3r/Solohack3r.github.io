@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About the Game: Beast Slayer"
-tags: "Beast Slayer"
+tags: "Beast-Slayer"
 ---
 
 # <a name="top"></a>Beast Slayer - Embark on an adventure in an 8-bit open world where monsters roam free.
