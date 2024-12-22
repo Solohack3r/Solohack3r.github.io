@@ -23,8 +23,11 @@ This is a low-cost game designed with a main story that can be completed in a co
 ## Available on Steam & Google Play
 
 
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1938530/ss_eadcde5c2aef6d7a829294b009e378c43f3b560d.600x338.jpg" alt="Game Screenshot">
+
+
 [Check out the game on Steam.](https://store.steampowered.com/app/1938530/Knightblade/)
 
 [Check out the game on Google Play.](https://play.google.com/store/apps/details?id=com.rpgmaker.only)
 
-***
+
