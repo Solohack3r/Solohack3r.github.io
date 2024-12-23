@@ -9,8 +9,6 @@ Welcome to <strong>Solohack3r Studios</strong>. The home for retro style indie R
 
 <br>
 
-<img src="/assets/img/logo.png" alt="Solohack3r Studios Logo">
-
 
 ***
 
@@ -18,12 +16,5 @@ Welcome to <strong>Solohack3r Studios</strong>. The home for retro style indie R
 
 <p><marquee>This website was updated in December 2024. But it feels like 1995.</marquee></p>
 
-<br>
-
-<img src="/assets/img/logo.png" alt="Solohack3r Studios Logo">
-
-<br>
-
-<img src="/assets/img/solohack3r-games.png" alt="Solohack3r Studios Games">
 
 <br>
